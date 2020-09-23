@@ -19,4 +19,6 @@
 > KakaoTalk 카카오톡 : 🔒 Privated (비공개)
 
 > YouTube 유튜브 : http://atyt.co1004.studio
-> YouTube 유튜브 : http://yt.alltips.tech
+> YouTube 유튜브 : http://yt.gyultips.tech
+
+---
